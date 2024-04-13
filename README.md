@@ -19,16 +19,16 @@ Nim  : 12030122140205
 
 ### * Untuk Reuploader Source Code tolong cantumin sumber juga ya, terima kasih
 
-# Setting Koneksi PHP
+# SETTING KONEKSI PHP
 setting koneksi di config.php dan ganti username, password dan dbname nya
 
-# Penggunaan Login
+# PENGGUNAAN LOGIN
 Username : TokobySekarlaraa
 
 Password : iniyangpunya
 * Penggunaan Login untuk single User
 
-# Program Asli
+# PROGRAM ASLI
 - Login Halaman Awal
 
   ![image](https://github.com/SekarwangiLarasati/PengkodeanDanPemrograman-Sistem-Pos-Kasir-Toko/assets/78289802/eac6ea1b-9754-4340-9084-56c9b6ecfb8a)
@@ -86,7 +86,7 @@ Password : iniyangpunya
 ![image](https://github.com/SekarwangiLarasati/PengkodeanDanPemrograman-Sistem-Pos-Kasir-Toko/assets/78289802/183eeb11-cc9c-4392-ab50-51e0cea2e742)
 
 
-# Program Telah Modifikasi 
+# PROGRAM TELAH DI MODIFIKASI
 - Login Halaman Awal
 
 ![image](https://github.com/SekarwangiLarasati/PengkodeanDanPemrograman-Sistem-Pos-Kasir-Toko/assets/78289802/e87c87ad-e617-4e79-b149-fbc9fd266148)
@@ -138,3 +138,8 @@ Password : iniyangpunya
 - Keluar
 
 ![image](https://github.com/SekarwangiLarasati/PengkodeanDanPemrograman-Sistem-Pos-Kasir-Toko/assets/78289802/3e6cabbd-9a31-4d5a-b364-e4eaf91d4840)
+
+# BENTUK ERD
+
+![image](https://github.com/SekarwangiLarasati/PengkodeanDanPemrograman-Sistem-Pos-Kasir-Toko/assets/78289802/cd84eb54-15da-47a0-9262-d161a8b47eef)
+
